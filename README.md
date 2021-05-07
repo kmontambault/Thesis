@@ -1,4 +1,4 @@
-# Thesis
+# Reconstruction from Fragments
 
 main.cpp is initially set up for evaluating the algorithm, not for reconstruction. 
 The path of a BMP file will be passed as the first command line argument, and the location to store the results will be the second command line argument.
